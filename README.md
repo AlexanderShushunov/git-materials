@@ -11,7 +11,7 @@
 
 [Git How To](https://githowto.com/ru). Набор коротких примеров по основным операциям Git. Можно быстро посмотреть как и что делается.
 
-[Интерактивные задания по Git](http://learngitbranching.js.org/index.html). Пройдите все задания и Вас болше не будет пугать интерактивный reabse после cherry-pick.
+[Интерактивные задания по Git](http://learngitbranching.js.org/index.html). Пройдите все задания и Вас больше не будет пугать интерактивный reabse после cherry-pick.
 
 [Git Rebase: руководство по использованию](https://habrahabr.ru/post/161009/). Неплохая статья с хабра.
 
