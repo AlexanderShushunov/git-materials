@@ -5,6 +5,17 @@
 
 [Docs](https://git-scm.com/docs). Документация по командам Git.
 
-[Git How To](https://githowto.com/ru). Набор коротких примеров по основным опрациям Git. Можно быстро посмотреть как и что делается.
+[Tutorial от Atlassian](https://www.atlassian.com/git/tutorials/). Очень хороший туториал. Покрывает темы от "как сделать коммит" до "как найти его в reflog".
 
-[Git with T for team](http://blogs.atlassian.com/2013/12/git-t-team/). Рассказ сотружника Attlasian об возможных workflow. 
+[Git How To](https://githowto.com/ru). Набор коротких примеров по основным операциям Git. Можно быстро посмотреть как и что делается.
+
+[Интерактивные задания по Git](http://learngitbranching.js.org/index.html). Пройдите все задания и Вас болше не будет пугать интерактивный reabse после cherry-pick.
+
+[Git Rebase: руководство по использованию](https://habrahabr.ru/post/161009/). Неплохая статья с хабра.
+[Картинка с примером коммитной арифметики]() 
+
+[Что скрывает от нас директория .git](http://habrahabr.ru/post/143079/). Статья об внутреннем устройстве Git.
+
+[Git with T for team](http://blogs.atlassian.com/2013/12/git-t-team/). Рассказ сотружника Atlassian об возможных способах организации работы с использованием Git.
+
+[Блог компании Atlassian](http://blogs.atlassian.com/tag/git/). Содержит массу отличных статей о работе с Git. Возможности, организация работ, опыт использования.
