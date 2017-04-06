@@ -13,6 +13,8 @@
 
 [Tutorial от Atlassian](https://www.atlassian.com/git/tutorials/). Очень хороший туториал. Покрывает темы от "как сделать коммит" до "как найти его в reflog".
 
+[Блог компании Atlassian](https://www.atlassian.com/blog/git). Содержит массу отличных статей о работе с Git. Возможности, организация работ, опыт использования.
+
 [Git How To](https://githowto.com/ru). Набор коротких примеров по основным операциям Git. Можно быстро посмотреть как и что делается.
 
 [Интерактивные задания по Git](http://learngitbranching.js.org/index.html). Пройдите все задания и Вас больше не будет пугать интерактивный reabse после cherry-pick.
@@ -32,8 +34,6 @@
 [GitLab Flow](https://habrahabr.ru/company/softmart/blog/316686/). И GitHub Flow в тот же список. 
 
 [Rebase Flow](https://habrahabr.ru/company/at_consulting/blog/283326/). Пример построения линейной истории  (там огонь в комментариях).
-
-[Блог компании Atlassian](http://blogs.atlassian.com/tag/git/). Содержит массу отличных статей о работе с Git. Возможности, организация работ, опыт использования.
 
 [Gerrit Git Review with Jenkins CI Server](http://alblue.bandlem.com/2011/02/gerrit-git-review-with-jenkins-ci.html).
 
