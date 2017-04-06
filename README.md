@@ -23,6 +23,12 @@
 
 [Перевод статьи Vincent Driessen: A successful Git branching model](https://habrahabr.ru/post/106912/). Статья о самом популярном workflow.
 
+[GitHub Flow](https://habrahabr.ru/post/189046/). Модернизация Git Flow.  
+
+[GitLab Flow](https://habrahabr.ru/company/softmart/blog/316686/). И GitHub Flow в тот же список. 
+
+[Rebase Flow](https://habrahabr.ru/company/at_consulting/blog/283326/). Пример построения линейной истории  (там огонь в комментариях).
+
 [Блог компании Atlassian](http://blogs.atlassian.com/tag/git/). Содержит массу отличных статей о работе с Git. Возможности, организация работ, опыт использования.
 
 [Gerrit Git Review with Jenkins CI Server](http://alblue.bandlem.com/2011/02/gerrit-git-review-with-jenkins-ci.html).
@@ -30,3 +36,4 @@
 [SourceTree](https://www.sourcetreeapp.com/). Один из лучших gui клиентов.
 
 [GitUp](http://gitup.co/). Очень классный клиент. Только под Mac :(
+ 
